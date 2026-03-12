@@ -1,171 +1,143 @@
 .header {
-
+  padding: 92px 50px 96px 50px;
 }
 
 .header__menu {
-
 }
 
 .header__menu-list {
-
 }
 
 .header__menu-item {
-
 }
 
 .header__menu-link {
-
 }
 
 .header__logo {
-
 }
 
 .header__logo-image {
-
 }
 
 .header__contacts {
-
 }
 
 .header__contacts-link {
-
 }
 
 .header__contacts-text {
-
 }
 
 .cover {
-
+  padding: 165px 50px 50px 50px;
+  background-image: url(../images/cover.jpg);
 }
 
 .cover__title {
-
 }
 
 .cover__description {
-
 }
 
 .cover__description-text {
-
 }
 
 .cover__description-button {
-
-}
-
-.cover__image {
-
 }
 
 .lots {
-  
+  margin: 180px 24px 24px 0;
 }
 
 .lots__title {
-
 }
 
 .lots__list {
-
 }
 
 .lots__list-item {
-
 }
 
 .lots__list-link {
-
 }
 
-.lots__list-card {
-
+.lots__list-lot {
 }
 
-.lots__list-card-title {
-
+.lots__list-lot-film {
+  background-image: url(../images/card-lot-01.jpg);
 }
 
-.lots__list-card-text {
+.lots__list-lot-book {
+  background-image: url(../images/card-lot-02.jpg);
+}
 
+.lots__list-lot-painting {
+  background-image: url(../images/card-lot-03.jpg);
+}
+
+.lots__lot-title {
+}
+
+.lots__lot-text {
 }
 
 .lots__more-link {
-  
 }
 
 .about {
-
+  margin: 120px 24px 0 24px;
 }
 
 .about__logo {
-
 }
 
 .about__logo-image {
-
 }
 
 .about__description {
-
 }
 
 .about__description-title {
-
 }
 
 .about__description-block {
-
 }
 
 .footer {
-
+  margin: 180px 0;
 }
 
 .footer__contacts {
-
 }
 
 .footer__contacts-link {
-
 }
 
 .footer__contacts-text {
-
 }
 
 .footer__menu {
-
 }
 
 .footer__menu-list {
-
 }
 
 .footer__menu-item {
-
 }
 
 .footer__menu-link {
-
 }
 
 .footer__socials {
-
 }
 
 .footer__socials-item {
-
 }
 
 .footer__socials-link {
-
 }
 
 .footer__socials-image {
-
 }
