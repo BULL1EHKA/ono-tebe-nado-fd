@@ -186,7 +186,6 @@ a.card-link {
   color: white;
   font-weight: 700;
   font-size: 22px;
-  line-height: 24px;
   text-decoration: underline white;
   text-underline-offset: 3px;
   text-transform: uppercase;
@@ -274,7 +273,6 @@ a.card-link {
 
 .footer__menu {
   gap: 33px;
-  margin-bottom: 6px;
   font-size: 18px;
 }
 
